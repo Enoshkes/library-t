@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\models\\librarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\models\\librarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\viewmodel\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\viewmodel\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\service\\booksetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\service\\booksetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\service\\ibooksetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\service\\ibooksetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\controllers\\booksetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\controllers\\booksetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\bookset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\bookset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\bookset\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\bookset\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\viewmodel\\booksetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\viewmodel\\booksetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\models\\booksetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\models\\booksetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\shelf\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\shelf\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\shelf\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\shelf\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\service\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\service\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\shelf\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\shelf\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\viewmodel\\shelfvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\viewmodel\\shelfvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\models\\shelfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\models\\shelfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\service\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\service\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\views\\library\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\views\\library\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\viewmodel\\libraryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\viewmodel\\libraryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|c:\\users\\enosh.tsur\\source\\repos\\libraryt\\libraryt\\migrations\\20240804063955_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61A238-045A-4B8B-B164-E9E8BCB3F806}|LibraryT\\LibraryT.csproj|solutionrelative:libraryt\\migrations\\20240804063955_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\ViewModel\\BookVM.cs",
+              "RelativeDocumentMoniker": "LibraryT\\ViewModel\\BookVM.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\ViewModel\\BookVM.cs",
+              "RelativeToolTip": "LibraryT\\ViewModel\\BookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:48:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T11:44:08.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Service\\IBookService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\IBookService.cs",
+              "RelativeToolTip": "LibraryT\\Service\\IBookService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:36:46.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Program.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Program.cs",
+              "RelativeToolTip": "LibraryT\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:36:19.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryT\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA4wCoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:56:08.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookSetService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\IBookSetService.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Service\\IBookSetService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\IBookSetService.cs",
+              "RelativeToolTip": "LibraryT\\Service\\IBookSetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:56:28.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\BookService.cs",
+              "RelativeToolTip": "LibraryT\\Service\\BookService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAMwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:37:30.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryModel.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Models\\LibraryModel.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Models\\LibraryModel.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Models\\LibraryModel.cs",
+              "RelativeToolTip": "LibraryT\\Models\\LibraryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:10:20.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Books\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T11:50:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookSetService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\BookSetService.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Service\\BookSetService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\BookSetService.cs",
+              "RelativeToolTip": "LibraryT\\Service\\BookSetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:57:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Library\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Library\\Create.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Library\\Create.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Library\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T07:14:09.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookSetController.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\BookSetController.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Controllers\\BookSetController.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\BookSetController.cs",
+              "RelativeToolTip": "LibraryT\\Controllers\\BookSetController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vwwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:04:12.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\BookSet\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\BookSet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\BookSet\\Index.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\BookSet\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T11:05:47.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryT\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:19:47.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Library\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T07:03:53.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\BookSet\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\BookSet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\BookSet\\Create.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\BookSet\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T11:11:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShelfController.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\ShelfController.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Controllers\\ShelfController.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\ShelfController.cs",
+              "RelativeToolTip": "LibraryT\\Controllers\\ShelfController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:29:21.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookSetVM.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\ViewModel\\BookSetVM.cs",
+              "RelativeDocumentMoniker": "LibraryT\\ViewModel\\BookSetVM.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\ViewModel\\BookSetVM.cs",
+              "RelativeToolTip": "LibraryT\\ViewModel\\BookSetVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:10:18.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Shelf\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Shelf\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Shelf\\Index.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Shelf\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T08:42:32.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookSetModel.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Models\\BookSetModel.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Models\\BookSetModel.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Models\\BookSetModel.cs",
+              "RelativeToolTip": "LibraryT\\Models\\BookSetModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:15:00.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Shelf\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Shelf\\Details.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Shelf\\Details.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Shelf\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T09:14:41.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\ShelfService.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Service\\ShelfService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\ShelfService.cs",
+              "RelativeToolTip": "LibraryT\\Service\\ShelfService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:30:10.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\IShelfService.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Service\\IShelfService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\IShelfService.cs",
+              "RelativeToolTip": "LibraryT\\Service\\IShelfService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAvwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:29:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShelfModel.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Models\\ShelfModel.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Models\\ShelfModel.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Models\\ShelfModel.cs",
+              "RelativeToolTip": "LibraryT\\Models\\ShelfModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:12:22.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShelfVM.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\ViewModel\\ShelfVM.cs",
+              "RelativeDocumentMoniker": "LibraryT\\ViewModel\\ShelfVM.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\ViewModel\\ShelfVM.cs",
+              "RelativeToolTip": "LibraryT\\ViewModel\\ShelfVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:48:17.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Shelf\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Shelf\\Create.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Shelf\\Create.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Shelf\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T08:50:49.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "LibraryT\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA9wDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:46:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LibraryVM.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\ViewModel\\LibraryVM.cs",
+              "RelativeDocumentMoniker": "LibraryT\\ViewModel\\LibraryVM.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\ViewModel\\LibraryVM.cs",
+              "RelativeToolTip": "LibraryT\\ViewModel\\LibraryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:11:07.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryT\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:47:42.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T08:28:41.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\LibraryService.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Service\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\LibraryService.cs",
+              "RelativeToolTip": "LibraryT\\Service\\LibraryService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:55:40.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Service\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Service\\ILibraryService.cs",
+              "RelativeToolTip": "LibraryT\\Service\\ILibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:47:43.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Library\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryT\\Views\\Library\\Details.cshtml",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Views\\Library\\Details.cshtml",
+              "RelativeToolTip": "LibraryT\\Views\\Library\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T07:49:28.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240804063955_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Migrations\\20240804063955_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Migrations\\20240804063955_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Migrations\\20240804063955_InitialCreate.cs",
+              "RelativeToolTip": "LibraryT\\Migrations\\20240804063955_InitialCreate.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwGcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:39:56.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryT\\appsettings.json",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\appsettings.json",
+              "RelativeToolTip": "LibraryT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T06:28:37.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "LibraryT\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\enosh.tsur\\source\\repos\\LibraryT\\LibraryT\\Models\\BookModel.cs",
+              "RelativeToolTip": "LibraryT\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:17:05.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
